@@ -1,0 +1,8 @@
+bin
+obj
+*.obj
+*.exe
+*.dll
+packages
+obj/**
+.vs

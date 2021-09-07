@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RecountIvw": {
+      "commandName": "Project",
+      "commandLineArgs": "-u https://therecount.github.io/interview-materials/project-a/1.html -i true"
+    }
+  }
+}
